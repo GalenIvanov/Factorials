@@ -3,7 +3,7 @@ Four different implementations of factorial function in Red
 
 I tried four imlementations of a factorial function:
 - Iterative
-- Optimized iterative, takenfrom Pharo 9.0 method
+- Optimized iterative, taken from Pharo 9.0 method
 - Recursive
 - Memoized
 
